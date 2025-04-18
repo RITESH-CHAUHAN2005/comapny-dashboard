@@ -1,0 +1,3 @@
+// placeholder for .gitignore
+# Ignore env files
+.env
